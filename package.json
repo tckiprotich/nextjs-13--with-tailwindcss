@@ -1,7 +1,7 @@
 {
   "name": "farmer",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -34,8 +34,8 @@
     "template"
   ],
   "author": "Collins Tonui",
-  "website":"https://tckiprotich.com",
-  "email":"tckiprotich@gmail.com",
+  "website": "https://tckiprotich.com",
+  "email": "tckiprotich@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tckiprotich/nextjs-13--with-tailwindcss/issues"
