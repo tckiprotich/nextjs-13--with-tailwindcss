@@ -35,6 +35,7 @@
   ],
   "author": "Collins Tonui",
   "website":"https://tckiprotich.com",
+  "email":"tckiprotich@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tckiprotich/nextjs-13--with-tailwindcss/issues"
